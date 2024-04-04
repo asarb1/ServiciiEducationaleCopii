@@ -1,0 +1,22 @@
+{
+  "name": "serviciieducationalecopii",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asarb1/ServiciiEducationaleCopii.git"
+  },
+  "author": "Sarb Andreea-Roxana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asarb1/ServiciiEducationaleCopii/issues"
+  },
+  "homepage": "https://github.com/asarb1/ServiciiEducationaleCopii#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
