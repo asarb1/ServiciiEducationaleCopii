@@ -1,0 +1,54 @@
+@font-face {
+  font-family: font_helvetica;
+  src:url("../fonts/Helvetica-Bold-Font");
+  font-family: font_academy;
+  src:url("../fonts/AcademyEngravedLetPlain");
+  font-family: font_arial;
+  src:url("../fonts/arial");
+}
+
+body {
+  background-color: #E59BE9;
+}
+h1 {
+  color: #8644A2;
+  text-align: center;
+  font-family: font_helvetica;
+}
+h2 {
+  color: #6895D2;
+  text-align: center;
+  font-family: font_academy;
+}
+h5 {
+  font-family: font_helvetica;
+}
+p {
+  color: #8644A2;
+}
+a {
+  color: #8644A2;
+}
+footer {
+  background-color: #8644A2;
+}
+
+.link{
+  font-family: font_arial;
+}
+
+.card-img-top {
+  width: 500px;
+  height: 500px;
+}
+.nav-link{
+  color: #8644A2;
+  font-family: font_arial;
+
+}
+.data {
+  color: #6895D2;
+}
+.card {
+  background-color: #E59BE9;
+}
