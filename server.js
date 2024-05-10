@@ -14,13 +14,15 @@ app.use(session({
   resave: false,
   saveUninitialized: false,
 }));
-
-app.get('/', function(req, res) {
-  res.render('home');
+app.get('/', function(req, res){
+  res.render('services');
 });
-
 app.get('/services', function(req, res) {
   res.render('services');
+});
+
+app.get('/sleepconsultancy', function(req, res) {
+  res.render('sleepconsultancy');
 });
 
 app.listen(port, () => {
