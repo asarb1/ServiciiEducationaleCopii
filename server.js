@@ -24,7 +24,9 @@ app.get('/services', function(req, res) {
 app.get('/sleepconsultancy', function(req, res) {
   res.render('sleepconsultancy');
 });
-
+app.get('/nannyservices', function(req, res){
+  res.render('nannyservices');
+})
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
