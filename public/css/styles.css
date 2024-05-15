@@ -67,3 +67,7 @@ footer {
 .card {
   background-color: #E59BE9;
 }
+.child-image {
+  width: 400px;
+  height: 400px;
+}
