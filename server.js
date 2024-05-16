@@ -33,6 +33,9 @@ app.get('/familysupport', function(req, res) {
 app.get('/about', function(req, res) {
   res.render('about');
 });
+app.get('/pottytraining', function(req, res) {
+  res.render('pottytraining');
+});
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
