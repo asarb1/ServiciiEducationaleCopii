@@ -36,7 +36,7 @@ footer {
   background-color: #8644A2;
   justify-content: center;
   display: flex;
-  min-height: 400px;
+  height:auto;
 }
 footer div {
 text-align: center;
