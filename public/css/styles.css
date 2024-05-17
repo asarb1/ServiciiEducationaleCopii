@@ -34,7 +34,13 @@ a {
 }
 footer {
   background-color: #8644A2;
-  text-align: center;
+  justify-content: center;
+  display: flex;
+  min-height: 400px;
+}
+footer div {
+text-align: center;
+margin:60px;
 }
 
 .packages-title {
@@ -83,4 +89,13 @@ footer {
 .behaviour-image {
   width:400px;
   height:430px;
+}
+.c1{
+
+}
+.c2{
+
+}
+.c3{
+
 }
