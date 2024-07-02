@@ -47,6 +47,9 @@ margin:60px;
 ul {
   list-style: none;
 }
+.about {
+  margin-right: 40px;
+}
 .card-carousel {
   border: none;
 }
@@ -107,8 +110,8 @@ ul {
   height: 200px;
 }
 .behaviour-image {
-  width:400px;
-  height:430px;
+  width:370px;
+  height:470px;
 }
 .c1{
 
