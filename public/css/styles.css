@@ -45,6 +45,9 @@ margin:60px;
 ul {
   list-style: none;
 }
+.card-carousel {
+  border: none;
+}
 .card-services {
   border: none;
 }
