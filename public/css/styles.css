@@ -42,7 +42,22 @@ footer div {
 text-align: center;
 margin:60px;
 }
-
+ul {
+  list-style: none;
+}
+.card-services {
+  border: none;
+}
+.image-card {
+  height: 200px;
+  width: 200px;
+}
+.logo {
+  height: 110px;
+  width: 200px;
+  float:left;
+  text-align: center;
+}
 .packages-title {
   color: #0E46A3;
 }
