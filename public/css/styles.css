@@ -6,7 +6,9 @@
   font-family: font_arial;
   src:url("../fonts/arial");
 }
-
+img {
+  border-radius: 10%;
+}
 body {
   background-color: #E59BE9;
 }
