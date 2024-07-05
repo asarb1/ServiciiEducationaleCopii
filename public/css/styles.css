@@ -103,7 +103,7 @@ ul {
 }
 .about-pic {
   width: 400px;
-  height: 820px;
+  height: 900px;
 }
 .potty-image {
   width: 400px;
@@ -112,6 +112,10 @@ ul {
 .behaviour-image {
   width:370px;
   height:470px;
+}
+.cross-image {
+  width:40px;
+  height:40px;
 }
 .c1{
 
